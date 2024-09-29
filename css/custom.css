@@ -1,0 +1,14 @@
+.custom-logo{
+  width: 254px;
+  height: 42px;
+}
+
+body{
+  color: black;
+}
+
+.project-title{
+  color: white;
+  font-size: 16px;
+  text-align: center;
+}
